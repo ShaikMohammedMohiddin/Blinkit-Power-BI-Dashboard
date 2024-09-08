@@ -1,1 +1,3 @@
-# Blinkit-Power-BI-Dashboard
+- 🚀 **Project: Real-Time Data Insights for Blinkit**
+- 📊 **Description:** Designed and implemented a dynamic Power BI dashboard for Blinkit, a leading online grocery delivery platform. The project involved developing interactive visualizations to analyze total sales, average sales, and customer feedback. The dashboard facilitated data-driven decisions to enhance inventory management and optimize sales strategies.
+- 🔧 **Technologies:** Power BI, DAX, Data Visualization, Data Analysis.
